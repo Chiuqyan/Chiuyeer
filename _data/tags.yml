@@ -4,7 +4,7 @@ speeches:
   cover: assets/images/speeches.jpg
 fiction:
   name: fiction
-  description: False
+  description: Stories
   cover: False
 fables:
   name: fables
