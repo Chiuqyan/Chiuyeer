@@ -27,7 +27,7 @@ facebook: null # replace by your username
 
 # Disqus
 disqus: False
-disqus_shortname: Chiuyeer # replace with your disqus username
+disqus_shortname: Chiuqyan # replace with your disqus username
 
 # Google Analytics
 #google_analytics: UA-69281367-1 # replace with your GA tracking identifier
@@ -67,7 +67,7 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: Chiuyeer
+username: Chiuqyan
 repo: Chiuyeer
 branch: master
 relative_source: ../Chiuyeer/
