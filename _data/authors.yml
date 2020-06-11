@@ -1,12 +1,12 @@
 ghost:
-  username: ghost
-  name: Ghost
-  url_full: http://jekyller.github.io/jasper2/
-  url: jekyller.github.io/jasper2
-  bio: The professional publishing platform
+  username: Chiuqyan
+  name: Chiuyeer
+  url_full: http://chiuyan.github.io/Chiuyeer/
+  url: chiuyan.github.io/Chiuyeer
+  bio: A person
   picture: assets/images/ghost.png
-  facebook: ghost
-  twitter: tryghost
+  facebook: False
+  twitter: False
   cover: False
 hannah:
   username: hannah
@@ -71,17 +71,6 @@ martin:
   url: False
   bio: An American pastor, activist, humanitarian. People know me for leading the African-American Civil Rights movement using nonviolent civil disobedience.
   picture: assets/images/martin.jpg
-  facebook: False
-  twitter: False
-  cover: False
-chiu:
-  username: Chiuqyan
-  name: Chiuyan
-  location: C
-  url_full: False
-  url: False
-  bio: a person
-  picture: assets/images/ghost.jpg
   facebook: False
   twitter: False
   cover: False
