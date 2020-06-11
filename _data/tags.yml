@@ -1,20 +1,16 @@
+speeches:
+  name: speeches
+  description: Some of the greatest words ever spoken.
+  cover: assets/images/speeches.jpg
 fiction:
   name: fiction
-  description: Stories
+  description: False
   cover: False
 fables:
   name: fables
   description: A series of short stories that make you think.
   cover: assets/images/fables.jpg
-Records:
-  name: Records
-  description:  a written account of sth that is kept so that it can be looked at and used in the future
-  cover: False
-History:
-  name: History
-  description: False
-  cover: False
-Code:
-  name: Code
+getting-started:
+  name: getting-started
   description: False
   cover: False

@@ -6,7 +6,7 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /Chiuyeer/
+baseurl: /jasper2/
 
 # Website info
 title: Chiu's Blog
@@ -15,22 +15,22 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-CNAME: Chiuyeer#add cname for website to be created
+CNAME: #add cname for website to be created
 
 # Social info
 navigation: True # show the navbar links
 subscribers: False # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: null # replace by your username
-facebook: null # replace by your username
+twitter: False # replace by your username
+facebook: False # replace by your username
 
 # Disqus
 disqus: False
-disqus_shortname: Chiuqyan # replace with your disqus username
+disqus_shortname: Chiu # replace with your disqus username
 
 # Google Analytics
-#google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics:  False # replace with your GA tracking identifierUA-69281367-1
 
 # Permalinks
 permalink: /:title
@@ -71,8 +71,8 @@ username: Chiuqyan
 repo: Chiuyeer
 branch: master
 relative_source: ../Chiuyeer/
-destination: ../Chiuyeer-pages/
-production_url:  https://chiuqyan.github.io/Chiuyeer/
+destination: ../jasper2-pages/
+production_url:  https://chiuyan.github.io/Chiuyeer/
 source_url:  https://github.com/Chiuqyan/Chiuyeer/
 
 exclude:
