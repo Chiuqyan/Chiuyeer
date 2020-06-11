@@ -10,7 +10,15 @@ fables:
   name: fables
   description: A series of short stories that make you think.
   cover: assets/images/fables.jpg
-Record:
-  name: Record
+Records:
+  name: Records
+  description:  a written account of sth that is kept so that it can be looked at and used in the future
+  cover: False
+History:
+  name: History
   description: False
   cover: False
+Code:
+  name: Code
+  description: False
+  cover: False 
