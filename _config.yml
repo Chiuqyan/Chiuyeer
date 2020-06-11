@@ -71,7 +71,7 @@ username: Chiuqyan
 repo: Chiuyeer
 branch: master
 relative_source: ../Chiuyeer/
-destination: ../jasper2-pages/
+destination: ../Chiuyeer-pages/
 production_url:  https://chiuyan.github.io/Chiuyeer/
 source_url:  https://github.com/Chiuqyan/Chiuyeer/
 
